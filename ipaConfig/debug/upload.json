@@ -1,0 +1,13 @@
+{
+  	"uploadPlatform":"payer",
+	"uploadPlatformInfo":{
+		"payer":{
+			"buildUpdateDescription":"test auto bag",
+			"uploadUrl":"https://www.pgyer.com/apiv2/app/upload",
+			"_api_key":"2afb569fb1b4607d362439f626128bf5",
+			"buildInstallType":"2",
+			"buildPassword":"",
+			"buildName":"TestAutoBag"
+		}
+	}
+}
